@@ -58,3 +58,9 @@ contact:
 
 fun_fact:
   - I enjoy streaming, anime, and gaming.
+
+  ## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Nogist/Nogist/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
