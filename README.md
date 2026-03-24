@@ -1,16 +1,60 @@
-## Hi there 👋
+<!-- =========================
+     NOGIST GITHUB PROFILE
+========================= -->
 
-<!--
-**Nogist/Nogist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Hey%20there%20👋%20I'm%20Bill%20Lawrence&fontAlign=50&fontAlignY=38&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Frontend%20%7C%20Web3%20Developer%20%7C%20Freelancer&descAlign=50&descAlignY=60&descSize=17"
+    alt="header"
+    width="100%"
+  />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Nogist" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Nogist-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harnylawrence/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Harny%20Lawrence-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://harny.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-harny.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1200&color=00C2FF&center=true&vCenter=true&width=760&lines=Frontend+Developer+%7C+Smart+Contract+Builder;Web3+%7C+Blockchain+%7C+UX+%7C+DevOps;Open+to+collaborations+on+impactful+projects" alt="Typing intro" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Bill Lawrence
+username: Nogist
+role: Freelancer
+focus:
+  - Frontend Development
+  - Smart Contract Development
+  - Web3
+  - Blockchain
+  - UX
+  - DevOps
+
+stack:
+  - Next.js
+  - React
+  - Solidity
+
+currently_learning:
+  - Kubernetes
+
+open_to:
+  - Collaborations
+
+contact:
+  - nogistune.me@gmail.com
+
+fun_fact:
+  - I enjoy streaming, anime, and gaming.
