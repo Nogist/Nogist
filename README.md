@@ -26,18 +26,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1200&color=00C2FF&center=true&vCenter=true&width=760&lines=Frontend+Developer+%7C+Smart+Contract+Builder;Web3+%7C+Blockchain+%7C+UX+%7C+DevOps;Open+to+collaborations+on+impactful+projects" alt="Typing intro" />
 </p>
 
----
-
 ## 👨‍💻 About Me
-
-- Freelancer focused on **Frontend Development, Smart Contracts, Web3, Blockchain, UX, and DevOps**
-- Building with **Next.js, React, Node.js, Solidity, Hardhat, and Anchor**
-- Currently learning **Kubernetes**
-- Open to **collaborations**
-- Reach me at **nogistune.me@gmail.com**
-- Fun fact: **I enjoy streaming, anime, and gaming**
-
----
+```yaml
+name: Bill Lawrence
+username: Nogist
+role: Freelancer
+focus:
+  - Frontend Development
+  - Smart Contract Development
+  - Web3
+  - Blockchain
+  - UX
+  - DevOps
+stack:
+  - Next.js
+  - React
+  - Solidity
+currently_learning:
+  - Kubernetes
+open_to:
+  - Collaborations
+contact:
+  - nogistune.me@gmail.com
+fun_fact:
+  - I enjoy streaming, anime, and gaming.
+  ```
 
 ## ⚡ A Few Extras
 
