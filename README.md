@@ -30,30 +30,44 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Bill Lawrence
-username: Nogist
-role: Freelancer
-focus:
-  - Frontend Development
-  - Smart Contract Development
-  - Web3
-  - Blockchain
-  - UX
-  - DevOps
-stack:
-  - Next.js
-  - React
-  - Solidity
-currently_learning:
-  - Kubernetes
-open_to:
-  - Collaborations
-contact:
-  - nogistune.me@gmail.com
-fun_fact:
-  - I enjoy streaming, anime, and gaming.
-```
+- Freelancer focused on **Frontend Development, Smart Contracts, Web3, Blockchain, UX, and DevOps**
+- Building with **Next.js, React, Node.js, Solidity, Hardhat, and Anchor**
+- Currently learning **Kubernetes**
+- Open to **collaborations**
+- Reach me at **nogistune.me@gmail.com**
+- Fun fact: **I enjoy streaming, anime, and gaming**
+
+---
+
+## ⚡ A Few Extras
+
+![Focus](https://img.shields.io/badge/Focus-Web3%20%26%20Frontend-4CAF50?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Freelancer-3F51B5?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning-Kubernetes-9C27B0?style=flat-square)
+![From](https://img.shields.io/badge/Open%20to-Collaborations-FF9800?style=flat-square)
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nogist&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Nogist stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nogist&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nogist&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nogist&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
 
 ---
 
@@ -73,21 +87,6 @@ fun_fact:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="42" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="42" height="42"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nogist&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Nogist stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nogist&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nogist&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
 
 
 
